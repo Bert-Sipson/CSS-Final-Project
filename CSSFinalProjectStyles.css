@@ -1,0 +1,74 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    text-align: center;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    font-size: 30px;
+    background-image: url('https://media.istockphoto.com/id/1393994622/vector/seamless-tileable-abstract-geometric-celebration-excitement-shapes-background.jpg?s=612x612&w=0&k=20&c=omp-G4DZU2poQXH9dPV_EvFps4H7CFqDDZ3x6e4Geo0=');
+}
+
+main {
+    background-image: url('https://media.istockphoto.com/id/1448337091/vector/seamless-neon-color-zigzag-geometric-pattern.jpg?s=612x612&w=0&k=20&c=dAQ16AI3SkiE1jWSTyuDsuJMYFv2woGpcRp2OEDlLeA=');
+}
+
+li {
+    display: inline-block;
+    background-color: #DEEFF5;
+    border: 3px #ADD8E6 solid;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+#title{
+    color: #DEEFF5;
+}
+.sub-heading {
+    background-color: #DEEFF5;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 3px #ADD8E6 solid;
+    border-radius: 5px;
+    font-size: 30px;
+}
+
+.text-box {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding: 5px;
+    border: #ADD8E6 solid 3px;
+    border-radius: 5px;
+    background-color: #fff8e7;
+    font-size: 25px;
+}
+
+.project-img {
+    height: 1200px;
+    width: 1300px;
+    border-radius: 8%;
+}
+
+.mid-heading {
+    font-size: 27px;
+    background-color: #ADD8E6;
+    border: #DEEFF5 solid 3px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
